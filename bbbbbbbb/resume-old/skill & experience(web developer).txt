@@ -1,0 +1,56 @@
+3-5 years professional experience in Web Development, ideally WordPress
+Bachelor’s degree in computer science or a similar field
+Production grade experience in technologies incl. CSS3, PHP, JavaScript, HTML5, and jQuery
+Knowledge of code versioning tools including Git, Mercurial, and SVN
+Experience working with debugging tools such as Chrome Inspector and Firebug
+Good understanding of website architecture and aesthetics
+Ability to manage projects end to end, and collaborate with multiple disciplines (e.g. Marketing, Engineering)
+Excellent communication skills, in English
+Experience with A/B testing tools like : VWO, A/B Tasty, Adobe Target etc
+Experience with AWS (incl. EC2, S3 and API Gateway)
+Experience with Stripe APIs
+SEO related work
+Start-Up experience (VC-backed and/or at Growth stage)
+Experience working in project-related domains (Construction, Infrastructure, Energy, Aerospace)
+Knowledge with PHP, Symfony 4, REST APIs
+Powerful OOP and SOLID principles
+Experience in hexagonal architecture
+Experience with legacy php applications and refactoring it
+Knowledge working with MySQL
+Knowledge working with Git
+You are an excellent team player
+Ability to work well under time constraints and self-learning capabilities.
+Strong analytical and problem-solving skills.
+You have a bachelor or higher degree with at least 10 years of professional web development experience.
+You have experience in leading teams and planning sprints.
+You have hands-on full stack web development expertise.
+You are proficient in JavaScript/TypeScript, HTML, CSS, React and SQL.
+Ideally also you are experienced in Python, GraphQL, and Postgres
+You have experience in working with AWS
+You have professional experience in working with product and design (UX/UI) following an agile software development workflow.
+Proven experience as a Full Stack Developer or similar role
+Experienced in setting up and managing QA efforts
+Familiarity with common stacks
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+Excellent communication and teamwork skills
+Great attention to detail
+Organizational skills
+An analytical mind
+3-4 years experience in web development
+Experience with CMS platforms (Joomla / Wordpress / Drupal)
+Experience using OOP concepts, in particular PHP
+Knowledge of MVC web frameworks (Laravel CakePHP CodeIgniter)
+JavaScript frameworks (backbone.js / node.js / angular.js)
+Excellent knowledge of JS, HTML & CSS
+Attention to detail & passion for creating great web user experiences
+Comfortable with IDE environments (Aptana / Eclipse or similar)
+Comfortable with source code platforms (git / github) and experience with git workflows
+Comfortable working with Linux, Apache and MySQL.
+Strong level of spoken and written English
+Self‐motivated and driven team player
+Eagerness to learn and collaborate
+Out of the box thinker
+Independent and responsible
+Results oriented

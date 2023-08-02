@@ -1,0 +1,142 @@
+2+ years of Javascript / Typescript development experience - this must include React and related libraries (React Router, Redux, Jest, Enzyme, Storybook etc.).
+You should also be comfortable working in a fast-paced environment that grants you the autonomy to make important decisions.
+An eye for design, and experience building data-intensive, analytical interfaces is a bonus.
+Working experience as a Front-end developer, using one of the main frameworks (Vue, React, Angular)
+Good knowledge and understanding of HTML5, CSS3.
+Experience with state management libraries like Redux, Vuex
+Working experience with FE apps / SPAs utilising an API
+Experience with secure coding principles and Front end unit testing
+Familiarity with browser testing and debugging
+Team player is an absolute must
+An ability to perform well in a fast-paced dynamic environment
+Excellent analytical and multitasking skills
+Understanding of the entire web development process (design, development and deployment) is a nice to have
+In-depth knowledge of ReactJS and a strong understanding of component-based UI development using Atomic Design Pattern.
+Working experience with GraphQL using Apollo and proficiency in JavaScript and/or TypeScript.
+Familiarity with Google Maps API and modern front-end tooling.
+Experience in Test Driven Development (TDD) with the ability to write unit tests, integration tests, and UI automated tests.
+Comfortable working with CI/CD and Git proficiency.
+Analytical mindset and ability to document code using living standards.
+5+ years of frontend programming experience, from which 2+ years React - Must
+Strong knowledge of Javascript and Typescript
+Fast learner: you can quickly master concepts, disciplines, and methods.
+Team player, with great communication skills
+Experience working with geospatial data - an advantage
+Experience building large-scale infrastructure applications or similar experience.
+5+ years of experience in development.
+3+ years experience with Angular2+.
+Extensive programming experience in modern HTML, CSS, and JavaScript.
+Good experience in TypeScript, Angular CLI, and RxJS.
+Experience consuming REST APIs.
+Good software engineering fundamentals (data structures, OOP, algorithms, etc.).
+Excellent interpersonal skills.
+Highly organized with precise attention to detail.
+Ability to work well with others in a fast-paced, dynamic environment.
+Desire to learn and adapt to new requirements.
+Good spoken and written English.
+Strong Full Stack JavaScript experience with Node and Angular.
+Leadership experience is desired.
+Passion and interest in all things AR/VR!
+5+ years of experience in Development
+Experience with JavaScript and React.JS
+Experience with Craft CMS (Drupal or Yii2 experience would also be considered)
+Knowledge/understanding of PHP
+Strong understanding of database design and optimization
+Familiarity with agile development methodologies
+Architect, design and develop the front end code and base for the customer-facing platform and internal business tools
+Collaborate with backend engineers to design a modern API
+Develop technical solutions to user problems with other engineering teams and leadership
+Focus on functionality, performance, usability, aesthetics, and discoverability
+Deep understanding of web development with: Typescript, JavaScript, NodeJS and AWS.
+Over 6 years experience in software development.
+Strong preference for clean, maintainable code.
+Team player.
+Experience building end-to-end solutions.
+Collaborate with back-end developers to determine solutions that easily integrate with new and/or existing API into the front-end of a website
+Creating, maintaining, debugging, and optimizing JavaScript, HTML and CSS
+Implement website designs based on client approved mockups with advanced front-end coding using a combination of HTML, CSS, SASS, JavaScript/jQuery that will deliver an optimized user experience using WordPress
+Design, develop and deliver code that is necessary to support new feature developments and enhancements in an agile environment
+Recommend approaches to streamline, automate, and/or integrate technological processes and systems to improve operational efficiency and effectiveness.
+Design solutions, write code, perform unit testing, develop appropriate artifacts / documentation, and facilitate final delivery.
+Reviews and tests technical changes and documents modifications required as a result of the upgrade
+Develop a functional understanding of our leading-edge IoT system
+Work closely with the System Development team to define the UI requirements for function and usability
+Produce high quality and detailed UI mock-ups, User Story Boards, and document process flows/rules
+4+ years of Front-End Development (Angular) experience is required.
+University degree in Computer Science or IT is required
+Must have worked with latest versions of Angular
+Must have good knowledge of Java Script, C#, HTML/CSS
+Knowledge of WPF is an added advantage
+Understands how modern frameworks impact web indexing/performance/ranking and how to mitigate such issues.
+Required experience with: HTML5, JavaScript, jQuery, Node.js, NPM, Gulp/grunt, LESS or SASS.
+Experience working with CSS frameworks such as Bootstrap CSS or Foundation 6 CSS.
+Experienced doing website animations either through CSS3 and/or JavaScript libraries.
+Strong verbal and written communication skills.
+4+ years of frontend engineering experience with a proven track record of delivering features and shipping products lightning-fast
+Meaningful and solid experience in frontend development with JS, React, HTML, CSS, Redux, Saga and Typescript
+Strong knowledge of CSS and experience with implementing pixel-perfect designs and MaterialUI
+Excellent product instincts and the ability to think about users first
+Proven problem-solving skills and the ability to take initiative and make things happen
+Start-up experience at a high-growth company and a passion for working in a fast-paced, dynamic environment
+3+ years of professional development experience
+Good knowledge of blockchain, DeFi platforms, Ethereum and other protocols
+Working knowledge of React/ React Native, Node.js, Ethers.js, Web3.js
+Work effectively with a high degree of autonomy within a collaboratively minded team
+4+ years of frontend engineering experience with a proven track record of delivering features and shipping products lightning-fast
+Meaningful and solid experience in frontend development with JS, React, HTML, CSS, Redux, Saga and Typescript
+Strong knowledge of CSS and experience with implementing pixel-perfect designs and MaterialUI
+Excellent product instincts and the ability to think about users first
+Proven problem-solving skills and the ability to take initiative and make things happen
+Start-up experience at a high-growth company and a passion for working in a fast-paced, dynamic environment
+Working experience as a Front-end developer, using one of the main frameworks (Vue, React, Angular)
+Good knowledge and understanding of HTML5, CSS3.
+Experience with state management libraries like Redux, Vuex
+Working experience with FE apps / SPAs utilising an API
+Experience with secure coding principles and Front end unit testing
+Familiarity with browser testing and debugging
+Team player is an absolute must
+An ability to perform well in a fast-paced dynamic environment
+Excellent analytical and multitasking skills
+Understanding of the entire web development process (design, development and deployment) is a nice to have
+2+ years of experience
+Knowledge of ReactJS/MobX, JavaScript, ES6, TypeScript
+Experience with NodeJS
+Experience with HTML5 and CSS
+Working knowledge of Git or other version control system
+Agile/Scrum development cycle understanding
+Excellent communication skills and being able to work independently or in a full team
+Good written and verbal English and Polish skills
+Ability to effectively plan and organize
+BS degree / 2-4 years of professional relevant experience
+Solid understanding of software engineering techniques, methodologies and practices (data structure, OOP, algorithmic problem solving skill)
+Deep understanding of client-server network applications
+Experience integrating with Rest API
+Notable skill-set with JavaScript (ES5/ES6+) and/or Typescript
+Solid knowledge and proven experience with Angular2+ or other latest front-end frameworks (React, Vue, etc)
+Expertise in HTML5 and CSS3
+Experience with adaptive web design (AWD)
+5 years professional experience
+
+- Solid understanding of responsive design principles.
+
+- Highly proficient in JavaScript, Typescript, HTML, CSS and modern front-end frameworks and standards.
+
+- Solid experience in building desktop applications using Electron, React, React Native, Redux, jest, express, pug, npm, Yarn, Gulp, Webpack, Accessibility etc
+
+- Experience in building high-performance interactive charting with Canvas, SVG and WebGL components using popular JavaScript frameworks like D3.js
+
+- Solid experience in building applications that use REST, WebSocket & GraphQL APIs.
+
+- Good understanding of cross-browser and cross-platform (Windows & macOS) compatibility issues and ways to work around them.
+
+- Develop high-performance interactive charting with Javascript and related technologies (canvas, svg, webgl).
+
+- Familiarity with server-side or server-less technologies like Node.js, Lambda functions
+
+- Familiarity with IaC (Infrastructure as Code) process and frameworks like AWS CDK, serverless, terraform etc
+
+- Self-starter with a high attention to detail.
+
+- Good communication and presentation skills.
+
+- Provide significant technical leadership and direction for our front-end engineers.

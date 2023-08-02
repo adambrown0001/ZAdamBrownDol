@@ -1,0 +1,137 @@
+5 years experience developing modern web apps in a modern tech team
+Strong core Javascript programming skills
+Experience with event-driven design patterns
+Strong experience with AWS services and Well-Architected principles
+Strong experience with containerization technologies such as Docker and Kubernetes.
+Experience with CI/CD pipelines and automation tools
+Expertise in modern front-end frameworks such as React, Angular, or Vue.js.
+Expertise in server-side development with Node.js, or Python
+Experience with databases such as MySQL, PostgreSQL, or MongoDB.
+Strong experience with testing frameworks such as Jest, Cypress, or Artillery.
+Excellent communication, problem-solving, and interpersonal skills.
+Minimum of 6 years full-stack experience building high traffic enterprise level web applications.
+Very strong Front-End skills including HTML, CSS/SCSS and JavaScript.
+Back-end experience with Node.js (or similar) along with creating and consuming REST APIs.
+Advanced knowledge of agile web development, architecture, Jira, Git, Gulp, CDNs, mobile performance, and martech integrations.
+Debugging experience to resolve code defects. Understanding of page performance and website vitals.
+Solid understanding of CMS Best Practices and guidelines, including experience developing CMS functionality, working within decoupled and headless architectures along with encapsulated design.
+Experience with responsive design, including grid layout and mobile-first development.
+Experience translating design files (Figma, Adobe Xd) into functional components.
+Working knowledge of global data privacy regulations (GDPR and CCPA). Experience with accessibility standards (WCAG AA rating). Knowledge of SEO and security best practices.
+Strong communication, project management and collaboration skills with internal and external stakeholders. A team player with a customer-centric focus.
+Experience with Crownpeak / FirstSpirit CMS, Wordpress, Pardot, and Google Solutions (Analytics, Tag Manager, Search Console, Optimize, Data Studio, Keyword Planner) is a plus.
+Must be able to regularly flex schedule across global time zones to further One Team collaboration and execute within a global function.
+A minimum of 3-5 years of professional experience in software engineering, coupled with a relevant degree in Computer Science or a related field
+Proven track record of working closely with industry experts and collaborating with diverse teams across different cultures
+Extensive knowledge of object-oriented programming languages such as Java or Kotlin
+Familiarity with industry best practices for Web API design
+Proficient in developing microservices using SpringBoot or similar technologies
+Hands-on experience with cloud infrastructure and services, preferably Azure, but GCP or AWS experience is also welcome
+Strong proficiency in React and Redux for developing modern-looking web applications
+Thorough understanding of JavaScript, HTML, and SCSS
+Knowledge of unit testing frameworks and UI testing libraries
+Keen interest in exploring the latest technologies and tools
+Fluent in English, with knowledge of German being an asset, but not mandatory
+At least 2 years of commercial experience in developing Ruby on Rails applications.
+Experience in using RSpec to write unit and integration tests.
+Good familiarity with PostgreSQL with the ability to write good performance queries using ActiveRecord and Arel.
+Git for version control.
+Strong experience with developing on and for Linux (we use Ubuntu as our main platform).
+Good business English & Polish is written and spoken.
+Confidence and skills to work without supervision.
+Familiarity with CSS and Javascript
+4+ years of experience with Python
+2+ years of FE experience: Javascript, React (40-50% of daily workload)
+Degree in Computer Science, IT, or similar field
+Strong SQL knowledge
+Understanding of MVC, MVVM patterns;
+Proficiency in development of client-server solutions in Node.js;
+Good knowledge of JavaScript (ES5, ES6), TypeScript, and at least one of React, Angular, Vue frameworks;
+Experience in Webpack or Parcel, Rollup bundlers;
+Expertise in diverse software development principles, dependency injection, inversion of control, concurrency design patterns, performance profiling, debugging and optimization;
+Experience in undertaking unit, integration & UI automated testing;
+Knowledge of distributed network architectures;
+Strong English verbal and written communication skills (B1+);
+Teamwork experience.
+High level of English language proficiency
+Expertise in JavaScript, HTML, CSS
+Experience with JavaScript frameworks and libraries, such as Angular and BootStrap
+Expertise in SQL and ElasticSearch
+Knowledge of Git
+Experience with cloud development and DevOps technologies is an advantage
+Ability to work remotely within EU territory
+Availability for on-site presence with a notice period of 7 days, for a maximum of 5 times per quarter (travel expenses will be paid), but this would be a full remote job
+3-5 years of experience as a Full Stack, Backend or Frontend developer
+Strong experience with JavaScript / TypeScript
+Strong experience with HTML, CSS & ReactJS (or AngularJS, VueJS, EmberJS)
+Experience with NodeJS
+Team player
+Fluent in English
+University degree in IT, computer science or information systems
+Previous experience with GraphQL
+Good knowledge of web UX
+Good understanding of databases
+Experience in writing tests
+Experience with Kubernetes or other orchestrators
+Minimum of 6 years full-stack experience building high traffic enterprise level web applications.
+Very strong Front-End skills including HTML, CSS/SCSS and JavaScript.
+Back-end experience with Node.js (or similar) along with creating and consuming REST APIs.
+Advanced knowledge of agile web development, architecture, Jira, Git, Gulp, CDNs, mobile performance, and martech integrations.
+Debugging experience to resolve code defects. Understanding of page performance and website vitals.
+Solid understanding of CMS Best Practices and guidelines, including experience developing CMS functionality, working within decoupled and headless architectures along with encapsulated design.
+Experience with responsive design, including grid layout and mobile-first development.
+Experience translating design files (Figma, Adobe Xd) into functional components.
+Working knowledge of global data privacy regulations (GDPR and CCPA). Experience with accessibility standards (WCAG AA rating). Knowledge of SEO and security best practices.
+Strong communication, project management and collaboration skills with internal and external stakeholders. A team player with a customer-centric focus.
+Experience with Crownpeak / FirstSpirit CMS, Wordpress, Pardot, and Google Solutions (Analytics, Tag Manager, Search Console, Optimize, Data Studio, Keyword Planner) is a plus.
+Must be able to regularly flex schedule across global time zones to further One Team collaboration and execute within a global function.
+A high level of English and/or Spanish (spoken and written)
+10+ years' experience with at least one of these languages (Java/C#/ Python/Ruby/Clojure/Scala/Kotlin/JavaScript/PHP) and its build system.
+Comfortable with OOP (Object Oriented Programming)
+Familiarity with a cloud solution (AWS, Azure, Google Cloud Platform)
+Familiarity with concepts of multi-layer application designs
+Quality-oriented: follow best practices (Testing (ideally TDD), pair programming, continuous integration/deployment, Agile methodologies) and SOLID principles
+Experience with mentoring team members or leading a project/team.
+Understanding of MVC, MVVM patterns;
+Proficiency in development of client-server solutions in Node.js;
+Good knowledge of JavaScript (ES5, ES6), TypeScript, and at least one of React, Angular, Vue frameworks;
+Experience in Webpack or Parcel, Rollup bundlers;
+Expertise in diverse software development principles, dependency injection, inversion of control, concurrency design patterns, performance profiling, debugging and optimization;
+Experience in undertaking unit, integration & UI automated testing;
+Knowledge of distributed network architectures;
+Strong English verbal and written communication skills (B1+);
+Teamwork experience.
+A minimum of 3-5 years of professional experience in software engineering, coupled with a relevant degree in Computer Science or a related field
+Proven track record of working closely with industry experts and collaborating with diverse teams across different cultures
+Extensive knowledge of object-oriented programming languages such as Java or Kotlin
+Familiarity with industry best practices for Web API design
+Proficient in developing microservices using SpringBoot or similar technologies
+Hands-on experience with cloud infrastructure and services, preferably Azure, but GCP or AWS experience is also welcome
+Strong proficiency in React and Redux for developing modern-looking web applications
+Thorough understanding of JavaScript, HTML, and SCSS
+Knowledge of unit testing frameworks and UI testing libraries
+Keen interest in exploring the latest technologies and tools
+Fluent in English, with knowledge of German being an asset, but not mandatory
+Have experience working with SQL and NoSQL data stores;
+Know about service oriented architectures, design patterns and data structures;
+Are used to working with code versioning tools like Git in a continuous delivery process;
+Use code quality tools like linters, type checkers and static analysers;
+Have experience using cloud platforms like AWS, GCP or Azure;
+Care about all the steps your code goes through from your machine to production and know about or are curious of technologies like containers;
+Are comfortable with agile methodologies such as Scrum and Kanban;
+High level of English language proficiency
+Expertise in JavaScript, HTML, CSS
+Experience with JavaScript frameworks and libraries, such as Angular and BootStrap
+Expertise in SQL and ElasticSearch
+Knowledge of Git
+Experience with cloud development and DevOps technologies is an advantage
+Ability to work remotely within EU territory
+Availability for on-site presence with a notice period of 7 days, for a maximum of 5 times per quarter (travel expenses will be paid), but this would be a full remote job
+3+ years of full stack development experience
+Production experience with React.js and Node.js
+CSS experience
+Experience building accessible products
+Firm grasp of JavaScript fundamentals, experience with TypeScript
+Experience with systems design and creating scalable architecture
+Excited about agile software development and a culture of constant learning and improvement
+Must be able to overlap with 2pm-6pm GMT (9am-1pm EST) every day.
